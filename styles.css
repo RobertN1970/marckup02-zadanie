@@ -1,0 +1,132 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #e5e5e5;
+
+  font-family: "Roboto", sans-serif;
+  color: #212121;
+}
+header a {
+  text-decoration: none;
+}
+.web {
+  font-family: raleway, sans-serif;
+  font-size: 26px;
+  color: #212121;
+}
+span {
+  font-family: raleway, sans-serif;
+  font-style: normal;
+  font-size: 26px;
+  color: #2196f3;
+}
+nav ul li a {
+  font-size: 14px;
+  line-height: 1.14;
+  text-decoration: none;
+  color: #212121;
+}
+nav ul li a:hover {
+  color: #2196f3;
+  opacity: 1;
+  text-decoration: underline;
+  transition: all 0.15s;
+}
+.style-img {
+  margin: 0;
+  padding: 0;
+}
+.navtmail li a {
+  font-size: 14px;
+  line-height: 1.14;
+  text-decoration: none;
+  color: #212121;
+}
+.navtmail li a:hover {
+  color: #2196f3;
+  opacity: 1;
+  text-decoration: underline;
+  transition: all 0.15s;
+}
+h1 {
+  font-size: 44px;
+  line-height: 1.36;
+}
+.button {
+  font-size: 16px;
+  line-height: 1.87;
+  cursor: pointer;
+}
+.buttonportfolio1 {
+  font-size: 16px;
+  line-height: 1.6;
+  cursor: pointer;
+}
+.buttonportfolio2 {
+  font-size: 16px;
+  line-height: 1.6;
+  cursor: pointer;
+}
+.buttonportfolio3 {
+  font-size: 16px;
+  line-height: 1.6;
+  cursor: pointer;
+}
+.buttonportfolio4 {
+  font-size: 16px;
+  line-height: 1.6;
+  cursor: pointer;
+}
+.buttonportfolio5 {
+  font-size: 16px;
+  line-height: 1.6;
+  cursor: pointer;
+}
+button:hover {
+  color: #ffffff;
+  background-color: #2196f3;
+  border-style: none;
+  box-shadow: 0px 3px 1px rgba(0, 0, 0, 0.1), 0px 1px 2px rgba(0, 0, 0, 0.08),
+    0px 2px 2px rgba(0, 0, 0, 0.12);
+  border-radius: 4px;
+  opacity: 1;
+  text-decoration: none;
+  transition: all 0.15s;
+}
+h3 {
+  font-size: 14px;
+  line-height: 1.14;
+}
+p {
+  font-size: 14px;
+  line-height: 1.71;
+}
+h2 {
+  font-size: 36px;
+  line-height: 1.16;
+}
+
+.miasto {
+  font-style: normal;
+  font-size: 14px;
+  line-height: 1.71;
+  color: #ffffff;
+}
+
+footer a {
+  text-decoration: none;
+}
+.footmail,
+ul li a {
+  font-style: normal;
+  font-size: 14px;
+  line-height: 1.71;
+  text-decoration: none;
+  color: #ffffff;
+}
+.footmail a:hover {
+  color: #2196f3;
+  opacity: 1;
+  text-decoration: underline;
+  transition: all 0.15s;
+}
